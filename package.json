@@ -1,7 +1,7 @@
 {
-  "name": "mevn_stack",
+  "name": "vue-team-v17",
   "version": "1.0.0",
-  "description": "Simple web application to handle authentication with vue.js",
+  "description": "set up meetings with different timezones",
   "main": "app.js",
   "scripts": {
     "client-install": "npm install --prefix client",
@@ -10,7 +10,7 @@
     "client": "npm run serve --prefix client",
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
-  "author": "Narendra Maurya",
+  "author": "Ally Lee",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",

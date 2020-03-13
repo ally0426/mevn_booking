@@ -1,11 +1,11 @@
 if (process.env.NODE_ENV === 'production') {
     module.exports = {
-        mongoURI: "mongodb://nandymandy123:nandymandy123@ds129906.mlab.com:29906/mevn_auth",
-        secret: 'yoursecret'
+        mongoURI: "mongodb://vue-team-v17:vue-team-v17@ds153113.mlab.com:53113/vue-team-v17",
+        secret: 'v17-secret'
     };
 } else {
     module.exports = {
-        mongoURI: "mongodb://localhost:27017/meven_auth",
-        secret: 'yoursecret'
+        mongoURI: "mongodb://localhost:27017/vue-team-v17",
+        secret: 'v17-secret'
     };
 }

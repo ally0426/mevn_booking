@@ -2,10 +2,10 @@
   <div class="home">
     <div class="jumbotron jumbotron-fluid">
       <div class="container">
-        <h1 class="display-4">MEVN Stack</h1>
+        <h1 class="display-4">Vue-team-v17</h1>
         <p
           class="lead"
-        >Simple authentication application built with MEVN Stack using Express, Node.js, Vue.js and MongoDB by Codebook Inc.</p>
+        >MEVN app by Vue-team-v17</p>
       </div>
     </div>
     <div class="row">
